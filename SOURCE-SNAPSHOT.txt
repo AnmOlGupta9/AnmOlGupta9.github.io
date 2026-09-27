@@ -1,0 +1,6 @@
+Anmol — Personal Notebook
+Source snapshot: AppDeploy deployment 1789204441283
+Live app: https://anmol-notebook-aiu9x9.v2.appdeploy.ai/
+
+This archive contains application source/assets, not production database contents.
+The production app currently uses AppDeploy auth/API/database integrations.
